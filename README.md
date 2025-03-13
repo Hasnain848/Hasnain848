@@ -1,9 +1,9 @@
 <!--
-![GitHub Contribution Pie Chart](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hasnain848&theme=highcontrast)
+![GitHub Contribution Pie Chart](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hasnain848&theme=github_dark)
 -->
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Hasnain848&label=👀%20Visitors%20%20%20%20&style=for-the-badge&color=000000&labelColor=D98324">
+  <img src="https://komarev.com/ghpvc/?username=Hasnain848&label=👀%20Visitors%20%20%20%20&style=for-the-badge&color=000000&labelColor=1f6feb">
 </p>
 
 <!--![Banner](Projects/banner.svg)-->  
@@ -23,13 +23,13 @@
 
   ### 📬 Connect with Me:
   <p align="left">
-    <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <a href="https://www.linkedin.com/in/muhammadhasnain-siddiqui-a253472b8" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" />
     </a>
-    <a href="mailto:your-email@gmail.com">
+    <a href="mailto:muhammadhasnainsiddiqui596@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail" />
     </a>
-    <a href="https://discord.com/users/your-discord-id" target="_blank">
+    <a href="https://discord.com/users/hasnain08249" target="_blank">
       <img src="https://skillicons.dev/icons?i=discord" width="50" alt="Discord" />
     </a>
     <a href="https://github.com/Hasnain848" target="_blank">
@@ -57,20 +57,20 @@
 
   <h3>💻 GitHub Profile Stats</h3>
   <p>
-    <img alt="Hasnain's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Hasnain848&show_icons=true&count_private=true&theme=highcontrast&hide_border=true&card_width=305&hide=prs"/>
-    <img alt="Hasnain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnain848&layout=compact&theme=highcontrast&hide_border=true&langs_count=6&card_width=370"/>
+    <img alt="Hasnain's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Hasnain848&show_icons=true&count_private=true&theme=github_dark&hide_border=true&card_width=305&hide=prs"/>
+    <img alt="Hasnain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnain848&layout=compact&theme=github_dark&hide_border=true&langs_count=6&card_width=370"/>
   </p>
 
 <h3>📊 Contribution Graph</h3>
 
 <div style="max-width: 870px; overflow-x: auto; text-align: center;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=Hasnain848&bg_color=000000&color=FFD700&line=FFD700&point=FFFFFF&hide_border=true" width="810px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=Hasnain848&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" width="810px" />
 </div>
 
 <h3>📋 Profile Summary</h3> 
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasnain848&theme=highcontrast" width="810">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasnain848&theme=github_dark" width="810">
 </p>
 </details>
 
@@ -87,7 +87,7 @@
 
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <a href="https://github.com/Hasnain848/FAST_Transportation_System" title="FAST_Transportation_System">
-      <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Hasnain848&repo=FAST_Transportation_System&theme=highcontrast&border_color=FFD700&border_radius=10&description"/>
+      <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Hasnain848&repo=FAST_Transportation_System&theme=github_dark&border_color=58a6ff&border_radius=10&description"/>
     </a>
   </div>
 
@@ -98,5 +98,5 @@
 </details>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=24&center=true&vCenter=true&width=500&lines=Thanks+for+Visiting!+🤝" alt="Thanks for Visiting">
+  <img src="https://readme-typing-svg.herokuapp.com?color=58a6ff&size=24&center=true&vCenter=true&width=500&lines=Thanks+for+Visiting!+🤝" alt="Thanks for Visiting">
 </p>
