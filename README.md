@@ -37,7 +37,7 @@ I’m Hasnain, a passionate developer interested in problem-solving ⚡ and cont
   <summary><h2>🔥 Streaks, Stats & Activity</h2></summary>
 
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Hasnain848&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=FF0000&ring_color=FF0000&bg_color=000000&text_color=FFFFFF&rank_icon=github" />
-<img align="center" width="400" src="https://github-readme-streak-stats.vercel.app/?user=Hasnain848&theme=highcontrast&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=FF0000&ring=FF0000&border=000000" />
+<img align="center" width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=Hasnain848&theme=highcontrast&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=FF0000&ring=FF0000&border=000000" />
 
 <br/>
 <img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=Hasnain848&theme=high-contrast&hide_border=true&area_color=FF0000&area=true&point=FF0000&line=FF0000&" />
