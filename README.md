@@ -18,19 +18,10 @@
 
 Here are some of my notable projects:
 
-1. **Lab-1F**: A "Hello World" program in C.
-   - [Repository Link](https://github.com/Hasnain848/Lab-1F)
-
-2. **24K-0516-PF-LABS-WORK**: Programming Fundamentals practice codes.
-   - [Repository Link](https://github.com/Hasnain848/24K-0516-PF-LABS-WORK)
-
-3. **24K0516-OOP-LAb-**: Object-Oriented Programming lab work in C++.
-   - [Repository Link](https://github.com/Hasnain848/24K0516-OOP-LAb-)
-
-4. **Rocket-Game**: A simple game developed in C.
+1. **Rocket-Game**: A simple game developed in C.
    - [Repository Link](https://github.com/Hasnain848/Rocket-Game)
 
-5. **Grocery-store-web-**: A basic grocery store website using HTML.
+2. **Grocery-store-web-**: A basic grocery store website using HTML.
    - [Repository Link](https://github.com/Hasnain848/Grocery-store-web-)
 
 ## GitHub Stats
@@ -39,7 +30,7 @@ Here are some of my notable projects:
 
 ## Contact Me
 
-- **Email**: qureshihasnain563@gmail.com
+- **Email**: muhammadhasnainsiddiqui596@gmail.com
 - **LinkedIn**: [Your LinkedIn Profile](#)
 
 Feel free to reach out if you'd like to collaborate or have any questions!
