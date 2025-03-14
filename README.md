@@ -9,12 +9,13 @@
   <img src="https://github.com/Hasnain848/Hasnain848/blob/main/23.png?raw=true" width="800" height="300"/>
 </p>
 
-
 <p align="center">
   <a href="https://github.com/Hasnain848?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Hasnain848?color=FFD700&style=for-the-badge&logo=person-add&labelColor=000000&logoColor=white&label=Follow"/></a>
-    <img alt="stars" title="stars" src="https://custom-icon-badges.demolab.com/github/stars/Hasnain848?logo=star&style=for-the-badge&color=FFD700&labelColor=000000"/>
-    <img alt="Views" title="Views" src="https://komarev.com/ghpvc/?username=Hasnain848&style=for-the-badge&color=00000F"/>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Hasnain848?color=FFD700&style=for-the-badge&logo=person-add&labelColor=000000&logoColor=white&label=Follow"/>
+  </a>
+  <img alt="stars" title="stars" src="https://custom-icon-badges.demolab.com/github/stars/Hasnain848?logo=star&style=for-the-badge&color=FFD700&labelColor=000000"/>
+  <img alt="Views" title="Views" src="https://komarev.com/ghpvc/?username=Hasnain848&style=for-the-badge&color=00000F"/>
+  <img alt="GitHub Contributions" title="GitHub Contributions" src="https://badges.pufler.dev/commits/monthly/Hasnain848"/>
 </p>
 
 ---
@@ -22,25 +23,45 @@
 # 🧑‍💻 About Me
 
 **`Aspiring Developer (Developer/Designer/Creator)`**  
-I’m Hasnain, a passionate developer interested in problem-solving ⚡ and continuous learning 💻. Currently, I am a student at FAST NUCES Karachi, exploring the world of web development and backend technologies.
+I’m Hasnain, a passionate developer interested in problem-solving ⚡ and continuous learning 💻.  
+Currently, I am a student at FAST NUCES Karachi, exploring the world of web development and backend technologies.
 
-## 🛠 Skills
-- **Languages**: C, C++, HTML, CSS, JavaScript, PHP  
-- **Frameworks**: Laravel  
-- **Tools**: Git, GitHub  
+---
+<details>
+ <summary><h2> 🛠 Skills</h2></summary>
+
+### **Languages**
+![C](https://img.shields.io/badge/C-FFD700?style=for-the-badge&logo=c&logoColor=black)  
+![C++](https://img.shields.io/badge/C++-FFD700?style=for-the-badge&logo=c%2B%2B&logoColor=black)  
+![HTML](https://img.shields.io/badge/HTML5-FFD700?style=for-the-badge&logo=html5&logoColor=black)  
+![CSS](https://img.shields.io/badge/CSS3-FFD700?style=for-the-badge&logo=css3&logoColor=black)  
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/PHP-FFD700?style=for-the-badge&logo=php&logoColor=black)  
+
+### **Frameworks & Tools**
+![Laravel](https://img.shields.io/badge/Laravel-FFD700?style=for-the-badge&logo=laravel&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=black)  
+![GitHub](https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=black)  
+
+</details>
 
 ---
 
 ## 🚀 My Projects
 
 <details>
-  <summary><h2>🏆  Featured Projects</h2></summary>
+  <summary><h2>🏆 Featured Projects</h2></summary>
 
 | Rocket-Game                            | Grocery Store Website                              |
 | -------------------------------------- | ------------------------------------------------ |
 | [![Repository](https://github-readme-stats.vercel.app/api/pin/?username=Hasnain848&repo=Rocket-Game&theme=dark&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700)](https://github.com/Hasnain848/Rocket-Game) | [![Repository](https://github-readme-stats.vercel.app/api/pin/?username=Hasnain848&repo=Grocery-store-web-&theme=dark&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700)](https://github.com/Hasnain848/Grocery-store-web-) |
 
+### 🌐 Live Demo  
+- **Grocery Store Website**: [Live Demo](https://grocerystorewebsite-olive.vercel.app/)
+
 </details>
+
+---
 
 <details open>
   <summary><h2>🔥 Streaks, Stats & Activity</h2></summary>
@@ -56,6 +77,8 @@ I’m Hasnain, a passionate developer interested in problem-solving ⚡ and cont
 </details>
 
 
+---
+
 ## 🤝 Contact Me
 
 <p align="left">
@@ -65,7 +88,11 @@ I’m Hasnain, a passionate developer interested in problem-solving ⚡ and cont
   <a href="https://www.linkedin.com/in/muhammadhasnain-siddiqui-a253472b8">
     <img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn" />
   </a>
+  <a href="https://twitter.com/your_twitter_handle">
+    <img src="https://img.shields.io/badge/Twitter-FFD700?style=for-the-badge&logo=twitter&logoColor=000000" alt="Twitter" />
+  </a>
 </p>
 
+---
 
-Feel free to reach out if you'd like to collaborate or have any questions! 🚀
+### 🚀 **Feel free to reach out if you'd like to collaborate or have any questions!**
