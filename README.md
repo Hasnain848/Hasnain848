@@ -62,7 +62,7 @@ I’m Hasnain, a passionate developer interested in problem-solving ⚡ and cont
   <a href="mailto:muhammadhasnainsiddiqui596@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=000000" alt="Gmail" />
   </a>
-  <a href="#">
+  <a href="www.linkedin.com/in/muhammadhasnain-siddiqui-a253472b8">
     <img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn" />
   </a>
 </p>
