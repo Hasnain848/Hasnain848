@@ -49,6 +49,6 @@ I’m Hasnain, a passionate developer interested in problem-solving ⚡ and cont
 ## 📩 Contact Me
 
 - **Email**: muhammadhasnainsiddiqui596@gmail.com  
-- **LinkedIn**: [Your LinkedIn Profile](#)  
+- **LinkedIn**: [www.linkedin.com/in/muhammadhasnain-siddiqui-a253472b8(#)  
 
 Feel free to reach out if you'd like to collaborate or have any questions! 🚀
