@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Hasnain848/Hasnain848/blob/main/DALL%C2%B7E%202025-03-14%2012.31.59%20-%20A%20dark-themed%20GitHub%20profile%20banner%20for%20Hasnain,%20featuring%20a%20black%20and%20gold%20color%20scheme.%20The%20design%20should%20have%20a%20futuristic%20and%20professional%20look,%20w.png?raw=true" width="700"/>
+  <img src="https://github.com/Hasnain848/Hasnain848/blob/main/DALL%C2%B7E%202025-03-14%2012.31.59%20-%20A%20dark-themed%20GitHub%20profile%20banner%20for%20Hasnain,%20featuring%20a%20black%20and%20gold%20color%20scheme.%20The%20design%20should%20have%20a%20futuristic%20and%20professional%20look,%20w.png?raw=true" width="500"/>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-# 🚀 About Me
+# 🧑‍💻 About Me
 
 **`Aspiring Developer (Developer/Designer/Creator)`**  
 I’m Hasnain, a passionate developer interested in problem-solving ⚡ and continuous learning 💻. Currently, I am a student at FAST NUCES Karachi, exploring the world of web development and backend technologies.
@@ -30,10 +30,10 @@ I’m Hasnain, a passionate developer interested in problem-solving ⚡ and cont
 
 ---
 
-## 🔥 My Projects
+## 🚀 My Projects
 
 <details>
-  <summary><h2>💻 Featured Projects</h2></summary>
+  <summary><h2>🏆  Featured Projects</h2></summary>
 
 | Rocket-Game                            | Grocery Store Website                              |
 | -------------------------------------- | ------------------------------------------------ |
@@ -55,16 +55,16 @@ I’m Hasnain, a passionate developer interested in problem-solving ⚡ and cont
 </details>
 
 
-
-## 📩 Contact Me
+## 🤝 Contact Me
 
 <p align="left">
   <a href="mailto:muhammadhasnainsiddiqui596@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=000000" alt="Gmail" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn" />
   </a>
 </p>
+
 
 Feel free to reach out if you'd like to collaborate or have any questions! 🚀
