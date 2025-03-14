@@ -48,7 +48,13 @@ I’m Hasnain, a passionate developer interested in problem-solving ⚡ and cont
 
 ## 📩 Contact Me
 
-- **Email**: muhammadhasnainsiddiqui596@gmail.com  
-- **LinkedIn**: [www.linkedin.com/in/muhammadhasnain-siddiqui-a253472b8(#)  
+<p align="left">
+  <a href="mailto:muhammadhasnainsiddiqui596@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 Feel free to reach out if you'd like to collaborate or have any questions! 🚀
