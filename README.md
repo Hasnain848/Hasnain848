@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">
-    <samp>&gt; <span id="typing-text">Hey There! I am <b>Hasnain</b></span></samp>
+    <samp>&gt; <span id="typing-text">Crafting Code, Creating Solutions - <b>Hasnain</b></span></samp>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   </h1>
 </p>
@@ -8,14 +8,12 @@
 ---
 
 ```ascii
-  _    _            _    _             
- | |  | |          | |  (_)            
- | |__| | __ _  ___| | ___ _ __   __ _ 
- |  __  |/ _` |/ __| |/ / | '_ \ / _` |
- | |  | | (_| | (__|   <| | | | | (_| |
- |_|  |_|\__,_|\___|_|\_\_|_| |_|\__, |
-                                  __/ |
-                                 |___/ 
+  ██╗  ██╗ █████╗  ██████╗██╗  ██╗██╗███╗   ██╗ ██████╗     ███╗   ███╗ ██████╗ ██████╗ ███████╗
+  ██║  ██║██╔══██╗██╔════╝██║  ██║██║████╗  ██║██╔════╝     ████╗ ████║██╔═══██╗██╔══██╗██╔════╝
+  ███████║███████║██║     ███████║██║██╔██╗ ██║██║  ███╗    ██╔████╔██║██║   ██║██████╔╝███████╗
+  ██╔══██║██╔══██║██║     ██╔══██║██║██║╚██╗██║██║   ██║    ██║╚██╔╝██║██║   ██║██╔═══╝ ╚════██║
+  ██║  ██║██║  ██║╚██████╗██║  ██║██║██║ ╚████║╚██████╔╝    ██║ ╚═╝ ██║╚██████╔╝██║     ███████║
+  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝     ╚═╝     ╚═╝ ╚═════╝ ╚═╝     ╚══════╝
 ```
 
 <div align="center">
@@ -31,8 +29,8 @@
 ## 🌟 About Me
 **`Creative Developer | Problem Solver | Continuous Learner`**  
 
-### 🚀 **How It All Started**  
-My journey into tech started with a curiosity to build things, which led me to coding. I enjoy solving complex problems and love working on **backend development & system automation**.
+### 🚀 **The Code Architect**  
+From transforming ideas into reality to solving intricate challenges, I thrive on pushing the boundaries of code. Passionate about **backend development & system automation**, I'm here to make things efficient and innovative.
 
 ### 🎯 **What Drives Me?**  
 - Learning new **technologies** & building projects.  
@@ -79,24 +77,10 @@ My journey into tech started with a curiosity to build things, which led me to c
 
 ---
 
-## 🚀 Skills
-
-### **Languages**
-![C](https://img.shields.io/badge/C-blueviolet?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-blueviolet?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-blueviolet?style=for-the-badge&logo=javascript&logoColor=white)
-
-### **Frameworks & Tools**
-![Git](https://img.shields.io/badge/Git-blueviolet?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-blueviolet?style=for-the-badge&logo=github&logoColor=white)
-
----
-
 ## 🎓 Education & Certifications
-- 🎓 **BS in Computer Science** - Fast University Karachi *(Expected 2028)*
+- 🎓 **BS in Computer Science** - Fast University Karachi *(Expected 2029)*
 
 ---
-
 ## 🔥 Streaks, Stats & Activity
 
 <div align="center">
@@ -129,5 +113,5 @@ My journey into tech started with a curiosity to build things, which led me to c
 
 ---
 
-### 🟢⚡ **HACKING MODE ACTIVATED** ⚡🔴
-![Hacking](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=450&lines=%3E+HACKING+MODE+ACTIVATED...;%3E+ACCESS+GRANTED...;%3E+WELCOME+TO+MY+PROFILE!)
+### 🟣⚡ **HACKING MODE ACTIVATED** ⚡🟣
+![Hacking](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=450&lines=%3E+HACKING+MODE+ACTIVATED...;%3E+ACCESS+GRANTED...;%3E+WELCOME+TO+MY+PROFILE!)
