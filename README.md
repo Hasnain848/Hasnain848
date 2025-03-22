@@ -5,9 +5,7 @@
   </h1>
 </p>
 
-<p align="center">
-  <img src="https://github.com/Hasnain848/Hasnain848/blob/main/23.png?raw=true" width="800" height="300"/>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/Hasnain848?tab=followers">
@@ -36,10 +34,9 @@ Currently, I am a student at FAST NUCES Karachi, exploring the world of web deve
 ![HTML](https://img.shields.io/badge/HTML5-FFD700?style=for-the-badge&logo=html5&logoColor=black)  
 ![CSS](https://img.shields.io/badge/CSS3-FFD700?style=for-the-badge&logo=css3&logoColor=black)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)  
-![PHP](https://img.shields.io/badge/PHP-FFD700?style=for-the-badge&logo=php&logoColor=black)  
+
 
 ### **Frameworks & Tools**
-![Laravel](https://img.shields.io/badge/Laravel-FFD700?style=for-the-badge&logo=laravel&logoColor=black)  
 ![Git](https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=black)  
 ![GitHub](https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=black)  
 
