@@ -81,6 +81,15 @@ From transforming ideas into reality to solving intricate challenges, I thrive o
 - 🎓 **BS in Computer Science** - Fast University Karachi *(Expected 2029)*
 
 ---
+ ## 🚀 Skills
+
+### **Languages**
+![C](https://img.shields.io/badge/C-blueviolet?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-purple?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-blueviolet?style=for-the-badge&logo=javascript&logoColor=white)  
+
+### **Frameworks & Tools**
+![Git](https://img.shields.io/badge/Git-purple?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-blueviolet?style=for-the-badge&logo=github&logoColor=white)  
+
+---
 ## 🔥 Streaks, Stats & Activity
 
 <div align="center">
