@@ -1,95 +1,133 @@
-<p align="center"> 
+<p align="center">
   <h1 align="center">
-    <samp>&gt; Hey There! I am <b>Hasnain</b></samp>
+    <samp>&gt; <span id="typing-text">Hey There! I am <b>Hasnain</b></span></samp>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   </h1>
 </p>
 
+---
 
+```ascii
+  _    _            _    _             
+ | |  | |          | |  (_)            
+ | |__| | __ _  ___| | ___ _ __   __ _ 
+ |  __  |/ _` |/ __| |/ / | '_ \ / _` |
+ | |  | | (_| | (__|   <| | | | | (_| |
+ |_|  |_|\__,_|\___|_|\_\_|_| |_|\__, |
+                                  __/ |
+                                 |___/ 
+```
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/Hasnain848?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Hasnain848?color=FFD700&style=for-the-badge&logo=person-add&labelColor=000000&logoColor=white&label=Follow"/>
+    <img alt="followers" src="https://custom-icon-badges.demolab.com/github/followers/Hasnain848?color=blueviolet&style=for-the-badge&logo=person-add"/>
   </a>
-  <img alt="stars" title="stars" src="https://custom-icon-badges.demolab.com/github/stars/Hasnain848?logo=star&style=for-the-badge&color=FFD700&labelColor=000000"/>
-  <img alt="Views" title="Views" src="https://komarev.com/ghpvc/?username=Hasnain848&style=for-the-badge&color=00000F"/>
-  <img alt="GitHub Contributions" title="GitHub Contributions" src="https://badges.pufler.dev/commits/monthly/Hasnain848"/>
-</p>
+  <img alt="stars" src="https://custom-icon-badges.demolab.com/github/stars/Hasnain848?logo=star&style=for-the-badge&color=blueviolet"/>
+  <img alt="Views" src="https://komarev.com/ghpvc/?username=Hasnain848&style=for-the-badge&color=blueviolet"/>
+</div>
 
 ---
 
-# 🧑‍💻 About Me
+## 🌟 About Me
+**`Creative Developer | Problem Solver | Continuous Learner`**  
 
-**`Aspiring Developer (Developer/Designer/Creator)`**  
-I’m Hasnain, a passionate developer interested in problem-solving ⚡ and continuous learning 💻.  
-Currently, I am a student at FAST NUCES Karachi, exploring the world of web development and backend technologies.
+### 🚀 **How It All Started**  
+My journey into tech started with a curiosity to build things, which led me to coding. I enjoy solving complex problems and love working on **backend development & system automation**.
+
+### 🎯 **What Drives Me?**  
+- Learning new **technologies** & building projects.  
+- Exploring **AI and automation** for real-world impact.  
+- Helping others by contributing to **open-source**.  
+
+### 🌍 **Beyond Code**  
+- 🏏 Playing **Cricket** under the sunset.  
+- 🏊‍♂️ **Swimming** for mental clarity.  
+- 🎥 Watching **Sci-Fi & Action movies**.  
+- 🏔️ Exploring **Pakistan's Northern Areas**.  
+
+> "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 ---
-<details>
- <summary><h2> 🛠 Skills</h2></summary>
+
+## 💻 Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚀 Rocket Game</h3>
+      <div align="center">
+        <a href="https://github.com/Hasnain848/Rocket-Game" target="_blank"><img src="https://img.shields.io/badge/Code-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Project Badge"/></a>
+        <p>
+          <br>
+          A simple yet exciting rocket game built with C++ that challenges your reflexes and decision-making skills.
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛒 Grocery Store Website</h3>
+      <div align="center">
+        <a href="https://github.com/Hasnain848/Grocery-store-web-" target="_blank"><img src="https://img.shields.io/badge/Code-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Project Badge"/></a>
+        <p>
+          <br>
+          A fully responsive e-commerce website for grocery shopping with an intuitive UI.
+        </p>
+        <a href="https://grocerystorewebsite-olive.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live Demo-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Skills
 
 ### **Languages**
-![C](https://img.shields.io/badge/C-FFD700?style=for-the-badge&logo=c&logoColor=black)  
-![C++](https://img.shields.io/badge/C++-FFD700?style=for-the-badge&logo=c%2B%2B&logoColor=black)  
-![HTML](https://img.shields.io/badge/HTML5-FFD700?style=for-the-badge&logo=html5&logoColor=black)  
-![CSS](https://img.shields.io/badge/CSS3-FFD700?style=for-the-badge&logo=css3&logoColor=black)  
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)  
-
+![C](https://img.shields.io/badge/C-blueviolet?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-blueviolet?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-blueviolet?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### **Frameworks & Tools**
-![Git](https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=black)  
-![GitHub](https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=black)  
-
-</details>
+![Git](https://img.shields.io/badge/Git-blueviolet?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-blueviolet?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🚀 My Projects
-
-<details>
-  <summary><h2>🏆 Featured Projects</h2></summary>
-
-| Rocket-Game                            | Grocery Store Website                              |
-| -------------------------------------- | ------------------------------------------------ |
-| [![Repository](https://github-readme-stats.vercel.app/api/pin/?username=Hasnain848&repo=Rocket-Game&theme=dark&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700)](https://github.com/Hasnain848/Rocket-Game) | [![Repository](https://github-readme-stats.vercel.app/api/pin/?username=Hasnain848&repo=Grocery-store-web-&theme=dark&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700)](https://github.com/Hasnain848/Grocery-store-web-) |
-
-### 🌐 Live Demo  
-- **Grocery Store Website**: [Live Demo](https://grocerystorewebsite-olive.vercel.app/)
-
-</details>
+## 🎓 Education & Certifications
+- 🎓 **BS in Computer Science** - Fast University Karachi *(Expected 2028)*
 
 ---
 
-<details open>
-  <summary><h2>🔥 Streaks, Stats & Activity</h2></summary>
+## 🔥 Streaks, Stats & Activity
 
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Hasnain848&hide_border=true&title_color=FFD700&show_icons=true&icon_color=FFD700&ring_color=FFD700&bg_color=000000&text_color=FFFFFF&rank_icon=github" />
-<img align="center" width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=Hasnain848&theme=dark&currStreakNum=FFD700&fire=FFD700&card_height=205&currStreakLabel=FFD700&ring=FFD700&border=000000&bg_color=000000" />
-
-<br/>
-<img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=Hasnain848&theme=dark&hide_border=true&area_color=FFD700&area=true&point=FFD700&line=FFD700&bg_color=000000" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnain848&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=805&hide_border=true&title_color=FFD700" />
-<br/>
-</p>
-</details>
-
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hasnain848&hide_border=true&title_color=blueviolet&show_icons=true&icon_color=blueviolet&ring_color=blueviolet&bg_color=000000&text_color=FFFFFF&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Hasnain848&theme=dark&currStreakNum=blueviolet&fire=blueviolet&card_height=205&currStreakLabel=blueviolet&ring=blueviolet&border=000000&bg_color=000000" />
+</div>
 
 ---
 
-## 🤝 Contact Me
-
+## 📫 Contact Me
 <p align="left">
   <a href="mailto:muhammadhasnainsiddiqui596@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=000000" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/muhammadhasnain-siddiqui-a253472b8">
-    <img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/your_twitter_handle">
-    <img src="https://img.shields.io/badge/Twitter-FFD700?style=for-the-badge&logo=twitter&logoColor=000000" alt="Twitter" />
+    <img src="https://img.shields.io/badge/LinkedIn-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-### 🚀 **Feel free to reach out if you'd like to collaborate or have any questions!**
+## 🤝 Open to Collaboration
+- 💡 **Looking to contribute to open-source projects!**
+- 🚀 **Interested in building innovative web apps & automation tools!**
+- 💬 **Let's discuss new ideas!**
+
+---
+
+### 🚀 **Let's build something great together!**
+
+---
+
+### 🟢⚡ **HACKING MODE ACTIVATED** ⚡🔴
+![Hacking](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=450&lines=%3E+HACKING+MODE+ACTIVATED...;%3E+ACCESS+GRANTED...;%3E+WELCOME+TO+MY+PROFILE!)
