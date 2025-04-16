@@ -28,28 +28,20 @@
 ---
 
 ## 🌟 About Me
-**`Creative Developer | Problem Solver | Continuous Learner`**  
+**`Creative Developer | Problem Solver |  Lifelong Learner`**  
+I enjoy building efficient backend systems and automating workflows. I'm passionate about writing clean, maintainable code and continuously growing my skills.
+### 🌐 ** Outside of Work**  
+- Cricket & swimming
 
-### 🚀 **The Code Architect**  
-From transforming ideas into reality to solving intricate challenges, I thrive on pushing the boundaries of code. Passionate about **backend development & system automation**, I'm here to make things efficient and innovative.
+- Sci-Fi & action movies
 
-### 🎯 **What Drives Me?**  
-- Learning new **technologies** & building projects.  
-- Exploring **AI and automation** for real-world impact.  
-- Helping others by contributing to **open-source**.  
-
-### 🌍 **Beyond Code**  
-- 🏏 Playing **Cricket** under the sunset.  
-- 🏊‍♂️ **Swimming** for mental clarity.  
-- 🎥 Watching **Sci-Fi & Action movies**.  
-- 🏔️ Exploring **Pakistan's Northern Areas**.  
+- Exploring northern Pakistan
 
 > "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 ---
-
-## 💻 Featured Projects
-
+<details>
+  <summary><h2>💻 Featured Projects</h2></summary>
 <table>
   <tr>
     <td width="50%">
@@ -71,7 +63,7 @@ From transforming ideas into reality to solving intricate challenges, I thrive o
     <td width="50%">
       <h3 align="center">🛒 Grocery Store Website</h3>
       <div align="center">
-        <img src="https://raw.githubusercontent.com/Hasnain848/Hasnain848/main/assets/grocery-store.svg" alt="Grocery Store Website" width="400" style="border-radius: 10px; margin-bottom: 10px;"/>
+        <img src="https://raw.githubusercontent.com/Hasnain848/Hasnain848/main/assets/grocery.svg" alt="Grocery Store Website" width="400" style="border-radius: 10px; margin-bottom: 10px;"/>
         <a href="https://github.com/Hasnain848/Grocery-store-web-"><img src="https://img.shields.io/badge/Source Code-ff7e00?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
         <a href="https://grocerystorewebsite-olive.vercel.app/"><img src="https://img.shields.io/badge/Live Demo-ff0080?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
         <p>
@@ -94,7 +86,7 @@ From transforming ideas into reality to solving intricate challenges, I thrive o
     </td>
   </tr>
  </table> 
-
+</details>
 ---
 
 ## 🎓 Education & Certifications
