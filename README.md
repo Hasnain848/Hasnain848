@@ -79,7 +79,7 @@ From transforming ideas into reality to solving intricate challenges, I thrive o
 ---
 
 ## 🎓 Education & Certifications
-- 🎓 **BS in Computer Science** - Fast University Karachi *(Expected 2029)*
+- 🎓 **BS in Computer Science** - Fast University Karachi *(Expected 2028)*
 
 ---
  ## 🚀 Skills
