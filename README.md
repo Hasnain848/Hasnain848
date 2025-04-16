@@ -60,9 +60,9 @@ From transforming ideas into reality to solving intricate challenges, I thrive o
         <p>
           A thrilling space adventure game built with C++ and OpenGL where you:
           <ul align="left">
-            <li>Navigate through asteroid fields with precise controls</li>
+<!--             <li>Navigate through asteroid fields with precise controls</li>
             <li>Collect power-ups to enhance your rocket capabilities</li>
-            <li>Face increasingly difficult levels with unique challenges</li>
+            <li>Face increasingly difficult levels with unique challenges</li> -->
           </ul>
           <div align="center"><b>Tech Stack:</b> C++, OpenGL, GLFW</div>
         </p>
@@ -77,9 +77,9 @@ From transforming ideas into reality to solving intricate challenges, I thrive o
         <p>
           A modern e-commerce platform featuring:
           <ul align="left">
-            <li>Responsive design for seamless mobile shopping</li>
+<!--             <li>Responsive design for seamless mobile shopping</li>
             <li>Interactive product catalog with filter options</li>
-            <li>Smooth checkout process with payment integration</li>
+            <li>Smooth checkout process with payment integration</li> -->
           </ul>
           <div align="center"><b>Tech Stack:</b> HTML, CSS, JavaScript</div>
         </p>
