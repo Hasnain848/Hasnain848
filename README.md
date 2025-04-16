@@ -40,53 +40,36 @@ I enjoy building efficient backend systems and automating workflows. I'm passion
 > "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 ---
-<details>
-  <summary><h2>💻 Featured Projects</h2></summary>
+
+## 💻 Featured Projects
+
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">🚀 Rocket Game</h3>
       <div align="center">
-        <img src="https://raw.githubusercontent.com/Hasnain848/Hasnain848/main/assets/rocket-game.svg" alt="Rocket Game" width="400" style="border-radius: 10px; margin-bottom: 10px;"/>
-        <a href="https://github.com/Hasnain848/Rocket-Game"><img src="https://img.shields.io/badge/Source Code-ff7e00?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
+        <a href="https://github.com/Hasnain848/Rocket-Game" target="_blank"><img src="https://img.shields.io/badge/Code-ff7e00?style=for-the-badge&logo=github&logoColor=white" alt="Project Badge"/></a>
         <p>
-          A thrilling space adventure game built with C++ and OpenGL where you:
-          <ul align="left">
-<!--             <li>Navigate through asteroid fields with precise controls</li>
-            <li>Collect power-ups to enhance your rocket capabilities</li>
-            <li>Face increasingly difficult levels with unique challenges</li> -->
-          </ul>
-          <div align="center"><b>Tech Stack:</b> C++, OpenGL, GLFW</div>
+          <br>
+          A simple yet exciting rocket game built with C++ that challenges your reflexes and decision-making skills.
         </p>
       </div>
     </td>
     <td width="50%">
       <h3 align="center">🛒 Grocery Store Website</h3>
       <div align="center">
-        <img src="https://raw.githubusercontent.com/Hasnain848/Hasnain848/main/assets/grocery.svg" alt="Grocery Store Website" width="400" style="border-radius: 10px; margin-bottom: 10px;"/>
-        <a href="https://github.com/Hasnain848/Grocery-store-web-"><img src="https://img.shields.io/badge/Source Code-ff7e00?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
-        <a href="https://grocerystorewebsite-olive.vercel.app/"><img src="https://img.shields.io/badge/Live Demo-ff0080?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+        <a href="https://github.com/Hasnain848/Grocery-store-web-" target="_blank"><img src="https://img.shields.io/badge/Code-ff7e00?style=for-the-badge&logo=github&logoColor=white" alt="Project Badge"/></a>
         <p>
-          A modern e-commerce platform featuring:
-          <ul align="left">
-<!--             <li>Responsive design for seamless mobile shopping</li>
-            <li>Interactive product catalog with filter options</li>
-            <li>Smooth checkout process with payment integration</li> -->
-          </ul>
-          <div align="center"><b>Tech Stack:</b> HTML, CSS, JavaScript</div>
+          <br>
+          A fully responsive e-commerce website for grocery shopping with an intuitive UI.
         </p>
+        <a href="https://grocerystorewebsite-olive.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live Demo-ff0080?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
       </div>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <h3>More Projects Coming Soon! 🌟</h3>
-      <p>I'm constantly working on new and exciting projects. Stay tuned for updates!</p>
-      <a href="https://github.com/Hasnain848?tab=repositories"><img src="https://img.shields.io/badge/All Repositories-ffdd00?style=for-the-badge&logo=github&logoColor=black" alt="All Repositories"/></a>
-    </td>
-  </tr>
- </table> 
-</details>
+</table>
+
+
 ---
 
 ## 🎓 Education & Certifications
