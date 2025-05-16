@@ -1,3 +1,4 @@
+<!--
 <p align="center">
   <h1 align="center">
     <samp>&gt; <span id="typing-text">Crafting Code, Creating Solutions - <b>Hasnain</b></span></samp>
@@ -119,3 +120,5 @@ I enjoy building efficient backend systems and automating workflows. I'm passion
 
 ### 🔥🌅 **CODING SUNSET** 🌅🔥
 ![Coding](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ff7e00&center=true&vCenter=true&width=450&lines=%3E+CODING+AT+SUNSET...;%3E+ACCESS+GRANTED...;%3E+WELCOME+TO+MY+PROFILE!)
+
+-->
