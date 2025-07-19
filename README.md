@@ -66,8 +66,8 @@ I enjoy building efficient backend systems and automating workflows. I'm passion
 - 🎓 **BS in Computer Science** - FAST National University, Karachi *(Expected 2028)*
 
 ---
-
-## 🚀 Skills
+<details>
+<summary><h2>🚀 Skills</h2></summary>
 
 ### **Languages**
 ![C](https://img.shields.io/badge/C-2A2A2A?style=for-the-badge&logo=c&logoColor=00FFFF)  
@@ -79,8 +79,10 @@ I enjoy building efficient backend systems and automating workflows. I'm passion
 ![GitHub](https://img.shields.io/badge/GitHub-1F51FF?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+</details>
 
-## 🔥 Streaks, Stats & Activity
+<details>
+<summary><h2>🔥 Streaks, Stats & Activity</h2></summary>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hasnain848&hide_border=true&title_color=00FFFF&show_icons=true&icon_color=1F51FF&bg_color=2A2A2A&text_color=FFFFFF" />
@@ -88,6 +90,7 @@ I enjoy building efficient backend systems and automating workflows. I'm passion
 </div>
 
 ---
+</details>
 
 ## 📫 Contact Me
 
