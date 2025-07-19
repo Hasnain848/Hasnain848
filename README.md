@@ -70,15 +70,13 @@ I enjoy building efficient backend systems and automating workflows. I'm passion
 <summary><h2>🚀 Skills</h2></summary>
 
 ### **Languages**
-![C](https://img.shields.io/badge/C-2A2A2A?style=for-the-badge&logo=c&logoColor=00FFFF)  
-![C++](https://img.shields.io/badge/C++-1F51FF?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-778899?style=for-the-badge&logo=javascript&logoColor=black)
-
+![C](https://img.shields.io/badge/C-2A2A2A?style=for-the-badge&logo=c&logoColor=00FFFF)  ![C++](https://img.shields.io/badge/C++-1F51FF?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-778899?style=for-the-badge&logo=javascript&logoColor=black)
+<!--
 ### **Frameworks & Tools**
-![Git](https://img.shields.io/badge/Git-2A2A2A?style=for-the-badge&logo=git&logoColor=00FFFF)  
-![GitHub](https://img.shields.io/badge/GitHub-1F51FF?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2A2A2A?style=for-the-badge&logo=git&logoColor=00FFFF)  ![GitHub](https://img.shields.io/badge/GitHub-1F51FF?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+-->
 </details>
 
 <details>
