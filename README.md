@@ -9,6 +9,8 @@
 
 ---
 -->
+<h1 align="center">👋 Hi, I'm <span style="color:#00FFFF">M. Hasnain Siddiqui</span></h1>
+
 ## 🌟 About Me
 **`Creative Developer | Problem Solver | Lifelong Learner`**  
 I enjoy building efficient backend systems and automating workflows. I'm passionate about writing clean, maintainable code and continuously growing my skills.
