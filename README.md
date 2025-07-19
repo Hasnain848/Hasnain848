@@ -1,4 +1,4 @@
-
+<!-- 
 <div align="center">
   <a href="https://github.com/Hasnain848?tab=followers">
     <img alt="followers" src="https://custom-icon-badges.demolab.com/github/followers/Hasnain848?color=00FFFF&style=for-the-badge&logo=person-add"/>
@@ -8,7 +8,7 @@
 </div>
 
 ---
-
+-->
 ## 🌟 About Me
 **`Creative Developer | Problem Solver | Lifelong Learner`**  
 I enjoy building efficient backend systems and automating workflows. I'm passionate about writing clean, maintainable code and continuously growing my skills.
