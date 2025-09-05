@@ -10,11 +10,10 @@
 ---
 -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#90CAF9">M. Hasnain Siddiqui</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#90CAF9">Hasnain</span></h1>
 
 ## 🌟 About Me
 **`Creative Developer | Problem Solver | Lifelong Learner`**  
-I enjoy building efficient backend systems and automating workflows. I'm passionate about writing clean, maintainable code and continuously growing my skills.
 
 ### 🌐 Outside of Work  
 - 🏏 Cricket & 🏊‍♂️ Swimming  
@@ -72,14 +71,14 @@ I enjoy building efficient backend systems and automating workflows. I'm passion
 </table>
 
 ---
-
+<!-- 
 ## 🎓 Education & Certifications
 - 🎓 **BS in Computer Science** - FAST National University, Karachi *(Expected 2028)*
 
 ---
+-->
 
-<details>
-<summary><h2>🚀 Skills</h2></summary>
+## 🚀 Skills
 
 ### **Languages**
 ![C](https://img.shields.io/badge/C-1A1A1D?style=for-the-badge&logo=c&logoColor=FFA726)
@@ -91,12 +90,11 @@ I enjoy building efficient backend systems and automating workflows. I'm passion
 ![Git](https://img.shields.io/badge/Git-1A1A1D?style=for-the-badge&logo=git&logoColor=FFA726)
 ![GitHub](https://img.shields.io/badge/GitHub-37474F?style=for-the-badge&logo=github&logoColor=white)
 -->
-</details>
+
 
 ---
 
-<details>
-<summary><h2>🔥 GitHub Stats & Activity</h2></summary>
+## 🔥 GitHub Stats & Activity
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hasnain848&hide_border=true&title_color=FFA726&show_icons=true&icon_color=90CAF9&bg_color=1A1A1D&text_color=E0E0E0" />
@@ -104,7 +102,7 @@ I enjoy building efficient backend systems and automating workflows. I'm passion
 </div>
 
 
-</details>
+
 
 ---
 
@@ -121,11 +119,4 @@ I enjoy building efficient backend systems and automating workflows. I'm passion
 
 ---
 
-## 🤝 Open to Collaboration
-- 💡 Looking to contribute to open-source projects  
-- 🛠️ Interested in automation tools & web apps  
-- 💬 Let's discuss new ideas!
 
----
-
-### 🌙 **Inspired by code & mountains – let's build something great together!**
