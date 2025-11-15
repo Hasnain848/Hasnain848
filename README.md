@@ -70,21 +70,21 @@
   </tr>
 </table>
 
----
+
 <!-- 
 ## 🎓 Education & Certifications
 - 🎓 **BS in Computer Science** - FAST National University, Karachi *(Expected 2028)*
 
 ---
 -->
-
+<!--
 ## 🚀 Skills
 
 ### **Languages**
 ![C](https://img.shields.io/badge/C-1A1A1D?style=for-the-badge&logo=c&logoColor=FFA726)
 ![C++](https://img.shields.io/badge/C++-37474F?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-90CAF9?style=for-the-badge&logo=javascript&logoColor=black)
-
+-->
 <!--
 ### Frameworks & Tools
 ![Git](https://img.shields.io/badge/Git-1A1A1D?style=for-the-badge&logo=git&logoColor=FFA726)
@@ -92,8 +92,8 @@
 -->
 
 
----
 
+<!--
 ## 🔥 GitHub Stats & Activity
 
 <div align="center">
@@ -102,7 +102,7 @@
 </div>
 
 
-
+-->
 
 ---
 
@@ -118,5 +118,6 @@
 </p>
 
 ---
+
 
 
